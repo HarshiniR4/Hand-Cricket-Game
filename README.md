@@ -15,6 +15,7 @@ These are the prerequisites for using the Hand Crcket Game application.
 •	Tkinter library   ( a python GUI library )
 
 After meeting the above requirements , clone the project from git using " git clone " command ( i.e downloading main.py file ) 
+
 Open command prompt ( for windows ) / terminal ( for Mac) .Change the directory to where you have downloaded the application and run using command python3 main.py /  python main.py 
 
 ( You can also use VS code by opening the main.py file and executing using “run” .But make sure to install python extension and the above mentioned packages , library using command python -m pip install somePackage if not done.) 
