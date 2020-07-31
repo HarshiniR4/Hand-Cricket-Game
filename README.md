@@ -7,8 +7,11 @@ Hand cricket game using hand gesture recognition ( OpenCv - Python ( image proce
 These are the prerequisites for using the Hand Crcket Game application.  
 
 •	Python 3.7     :   https://www.python.org/downloads/ 
+
 •	Numpy package  :  use command pip install numpy  
+
 •	OpenCV library   :  use command pip install opencv-python 
+
 •	Tkinter library   ( a python GUI library )
 
 After meeting the above requirements , clone the project from git using " git clone " command ( i.e downloading main.py file ) 
